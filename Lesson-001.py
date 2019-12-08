@@ -4,7 +4,7 @@ y = 0                                                         # Assigning a valu
 z = 0                                                         # Assigning a value to a Variable
 n = 0                                                         # Assigning a value to a Variable
 
-print("BASICS OF PYTHON | GITHUB/NARCOTIC")                   # Print to Screen
+print("BASICS OF PYTHON | GITHUB/NARCOTIC | LESSON-001")      # Print to Screen
 print()                                                       # Print an Empty Line
 
 x = input("Enter x Value : ")                                 # Input a value to a Variable
