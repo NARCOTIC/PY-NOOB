@@ -7,14 +7,17 @@ n = 0                                                         # Assigning a valu
 print("BASICS OF PYTHON | GITHUB/NARCOTIC | LESSON-001")      # Print to Screen
 print()                                                       # Print an Empty Line
 
-x = input("Enter x Value : ")                                 # Input a value to a Variable
-y = input("Enter y Value : ")                                 # Input a value to a Variable
+x = int(input("Enter x Value : "))                            # Input a value to a Integer Variable
+y = int(input("Enter y Value : "))                            # Input a value to a Integer Variable
+n = input("Enter Your Name : ")                               # Input a String
 
-zA = int(x) + int(y)                                          # Addition
-zS = int(x) - int(y)                                          # Substraction
-zM = int(x) * int(y)                                          # Multiplication
-zD = int(x) / int(y)                                          # Division
+zA = x + y                                                    # Addition
+zS = x - y                                                    # Substraction
+zM = x * y                                                    # Multiplication
+zD = x / y                                                    # Division
 
+print()
+print("Hello ", n)                                            # Printing a String with other Text
 print()
 print("Sum of x and y is :", zA)                              # Sum
 print("Difference of x and y is :", zS)                       # Difference
