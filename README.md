@@ -4,3 +4,4 @@ Python Beginner Guide : This repository has simple example programs that shows h
 ### LESSONS : 
        1.  Variables, Print, Basic Math & If Conditions 
        2.  While Loops, String Elements, Function: len()
+       3.  For Loops, Arrays: Adding, Printing & Searching 
