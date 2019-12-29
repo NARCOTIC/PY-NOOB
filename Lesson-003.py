@@ -16,7 +16,7 @@ first = array('i',[])                                         # Create an Array 
 for i in range(n):                                            # Loop this section in range i to n (n times)
   x = int(input("Enter value : "))                            # Input integer value
   first.append(x)                                             # Add it as the array's i'th element
-print("Added your ", n, " values to the Array.")            # Print to Screen
+print("Added your ", n, " values to the Array.")              # Print to Screen
 
 print()
 print("1. Search for a array element")                        # Print to Screen
