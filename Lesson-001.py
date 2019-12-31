@@ -10,7 +10,7 @@ print()                                                       # Print an Empty L
 
 x = int(input("Enter x Value : "))                            # Input a value to a Integer Variable
 y = int(input("Enter y Value : "))                            # Input a value to a Integer Variable
-c = int(input("Enter Common Factor : "))                            # Input a value to a Integer Variable
+c = int(input("Enter Common Factor : "))                      # Input a value to a Integer Variable
 n = input("Enter Your Name : ")                               # Input a String
 
 zA = x + y                                                    # Addition
