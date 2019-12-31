@@ -4,18 +4,18 @@ x = 0                                                         # Assigning a valu
 print("BASICS OF PYTHON | GITHUB/NARCOTIC | LESSON-002")      # Print to Screen
 print()                                                       # Print an Empty Line
 
-string = input("Enter a String : ")                           # Input a String
+strng = input("Enter a String : ")                            # Input a String
 x = int(input("Print first __ characters : "))                # Input a value to a Integer Variable
 print()                                                       # Print an Empty Line
 
-if x <= len(string):                                          # Function: len() returns the length of a String
+if x <= len(strng):                                           # Function: len() returns the length of a String
                                                               # If the length of String is less than or equal to x
   while i < x:                                                # While Loop
-    print(string[i])                                          # Print the String as an array elements
+    print(strng[i])                                           # Print the String as an array elements
     i=i+1                                                     # Increment i by 1
 
 else:                                                         # If the length of String is greater than x
-  print("String contains only ", len(string), " items.")      # Print to Screen
+  print("String contains only ", len(strng), " items.")       # Print to Screen
   print("Cannot output ", x, " items.")                       # Print to Screen
 
 print()
