@@ -10,9 +10,12 @@ print()                                                       # Print an Empty L
 
 if x <= len(strng):                                           # Function: len() returns the length of a String
                                                               # If the length of String is less than or equal to x
+    
   while i < x:                                                # While Loop
     print(strng[i])                                           # Print the String as an array elements
-    i=i+1                                                     # Increment i by 1
+   i=i+1                                                      # Increment i by 1
+    
+#  print(strng[:x])                                           # This one line and the previous 3 lines do the same thing
 
 else:                                                         # If the length of String is greater than x
   print("String contains only ", len(strng), " items.")       # Print to Screen
