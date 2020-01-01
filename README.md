@@ -9,4 +9,4 @@ Appreciate every single one who reported the issues and contributed ideas. These
    3.  For Loops, Arrays: Adding, Printing & Searching 
    4.  User Defined Functions
    5.  Recursion
-   6.  Classes, Objects, __init__ & User Defined Methods
+   6.  Classes, Objects, ```__init__``` & User Defined Methods
