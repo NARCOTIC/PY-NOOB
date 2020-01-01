@@ -20,12 +20,12 @@ def gpaLetterGrade(gpa):                                      # Function Definit
 print("BASICS OF PYTHON | GITHUB/NARCOTIC | LESSON-004")      # Print to Screen
 print()                                                       # Print an Empty Line
 
-n = input("Enter Your Name : ")                               # Input a value
-a = int(input("Enter Your Age : "))                           # Input a value
-g = float(input("Enter Your GPA : "))                         # Input a value
+name_input = input("Enter Your Name : ")                      # Input a value
+age_input = int(input("Enter Your Age : "))                   # Input a value
+gpa_input = float(input("Enter Your GPA : "))                 # Input a value
 
 print()                                                       # Print an Empty Line
-interview(n, a, g)                                            # Calling the function
+interview(name_input, age_input, gpa_input)                   # Calling the function
 
 print()
 print("THAT'S IT FOR FOURTH LESSON. TAKE A LOOK AT THE FIFTH ONE")
