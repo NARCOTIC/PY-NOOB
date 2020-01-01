@@ -5,7 +5,7 @@ class Grades:                                                 # Creating a class
     self.music = music                                        # Assign passed value to self (some object)'s 'music' variable
     self.law = law                                            # Assign passed value to self (some object)'s 'law' variable
 
-  def print_grades(self):                                      # Defining the function. 'self' keyword passes the object name
+  def print_grades(self):                                     # Defining the function. 'self' keyword passes the object name
     print("Math", self.math)                                  # Print self (some object)'s 'math' variable       
     print("Science", self.science)                            # Print self (some object)'s 'science' variable
     print("Music", self.music)                                # Print self (some object)'s 'music' variable
