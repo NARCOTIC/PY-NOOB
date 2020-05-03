@@ -1,5 +1,5 @@
 ## 👨🏽‍💻 PY-NOOB
-A repository of very simple Python programs to edit, change and learn basics of Python programming language.
+__A repository of very simple Python programs to edit, change and learn basics of Python programming language.__
 
 ## 👨🏽‍💻 LESSONS : 
    👉 1.  Variables, Print, Basic Math & If Conditions
