@@ -12,6 +12,8 @@ sum_xy = x + y                                                # Addition
 dif_xy = x - y                                                # Substraction
 product_xy = x * y                                            # Multiplication
 division_xy = x / y                                           # Division
+floorDivision_xy = x // y                                     # Floor division
+Exponentiation_xy = x ** y                                    # Exponentiation
 
 print()
 print("Hello ", name)                                         # Printing a String with other Text
@@ -20,6 +22,8 @@ print("Sum of x and y is :", sum_xy)                          # Sum
 print("Difference of x and y is :", dif_xy)                   # Difference
 print("Product of x and y is :", product_xy)                  # Product
 print("Quotient of x and y is :", division_xy)                # Quotient
+print("Floor Division of x and y is :", floorDivision_xy)     # Floor
+print("Exponentiation of x and y is :", Exponentiation_xy)    # Exponentiation
 print()
 
 if (sum_xy % 2) == 0:                                         # If the Remainder of sum_xy is 0 after deviding by 2
